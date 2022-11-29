@@ -1,0 +1,68 @@
+body {
+    background-image: url(background2.png);
+    background-repeat: no-repeat;
+}
+
+#flower {
+    
+    max-width: 40px;
+    position: absolute; left: 1300px; top: 700px;
+}
+#money {
+    visibility: hidden;
+    
+    max-width: 60px;
+    position: absolute; left: 1150px; top: 700px;
+}
+#button3 {
+    position: absolute; left: 700px; top: 600px;
+}
+#mario {
+    visibility: hidden;
+    max-width: 300px;
+    max-height: 300px;
+    position: absolute; left: 1000px; top: 100px;
+}
+#text2 {
+    visibility: hidden;
+    max-width: 30px;
+    position: absolute; left: 200px; top: 200px;
+}
+#butwhichone {
+    visibility: hidden;
+    position: absolute; left: 300px; top: 600px;
+}
+#buy {
+    visibility: hidden;
+    display: flex;
+    position: absolute; left: 1100px; top: 300px;
+    
+}
+#button4 {
+    visibility: hidden;
+    position: absolute; left: 100px; top: 100px;
+}
+#wrong {
+    visibility: hidden;
+    max-width: 30px;
+    position: absolute; left: 1100px; top: 350px;
+}
+#wrong1 {
+    visibility: hidden;
+    max-width: 30px;
+    position: absolute; left: 1140px; top: 350px;
+}
+#datetime {
+    visibility: hidden;
+    position: absolute; left: 1000px; top: 300px;
+}
+#pay {
+    visibility: hidden;
+    position: absolute; left: 1000px; top: 300px;
+}
+#wallet {
+
+    width: 60px;
+    height: 60px;
+    position: absolute; left: 200px; top: 650px;
+}

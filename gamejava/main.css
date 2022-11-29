@@ -1,0 +1,10 @@
+#startgame {
+    position: absolute; top: 150px; left: 0px;
+}
+body {
+    background-color: pink;
+}
+#nextpage {
+    position: absolute; top: 50%; left: 50%;
+
+}

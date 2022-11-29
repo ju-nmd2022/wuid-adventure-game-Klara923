@@ -1,0 +1,34 @@
+body {
+    background-image: url(background3.png);
+    background-repeat: no-repeat;
+}
+
+
+#kitty {
+    position: absolute; left: 600px; top: 700px;
+    width: 70px;
+    height: 80px;
+
+}
+
+
+
+#flower {
+    visibility: hidden;
+    
+    max-width: 40px;
+    position: absolute; left: 700px; top: 700px;
+}
+#thankyou {
+    visibility: hidden;
+    position: absolute; left: 1050px; top: 400px;
+}
+#frame {
+    position: absolute;
+}
+#check {
+    position: absolute;
+}
+#luckynumber1 {
+    visibility: hidden;
+}

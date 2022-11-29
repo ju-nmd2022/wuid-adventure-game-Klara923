@@ -1,0 +1,47 @@
+body {
+    background-image: url(background1.png);
+    background-repeat: no-repeat;
+    
+}
+#arrow {
+    visibility: hidden;
+    width: 30px;
+    position: absolute; left: 1000px; top: 300px;
+
+}
+#button1 {
+   position: absolute; left: 290px; top: 470px;
+}
+#button2 {
+    
+    position: absolute; left: 200px; top: 600px;
+}
+#ifyouhave {
+    position: absolute; left: 1000px; top: 0px;
+}
+#wallet {
+
+    width: 60px;
+    height: 60px;
+    position: absolute; left: 200px; top: 650px;
+}
+
+#bush {
+
+    width: 200px;
+    height: 100px;
+    position: absolute; left: 290px; top: 470px;
+}
+
+
+
+#flower {
+    visibility: hidden; 
+    max-width: 40px;
+    position: absolute; left: 1200px; top: 700px;
+}
+#money {
+    
+    max-width: 60px;
+    position: absolute; left: 1000px; top: 700px;
+}
