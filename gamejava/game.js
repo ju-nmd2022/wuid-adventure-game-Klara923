@@ -32,6 +32,15 @@
     //collectflower = true;
     //document.getElementById("flower").style.display = "block";
 //}); 
+let myCoinflip = Math.floor(Math.random() );
+
+    console.log (myCoinflip)
+   
+   if (myCoinflip == 0) {
+    alert("Are you ready?");
+   } else if (myCoinflip == 1) {
+    alert("Let's start a game!");
+}
     
 
 document.getElementById("bush").onclick = function() {
@@ -44,8 +53,10 @@ let myMath = Math.floor(Math.random() * 4);
 let number = document.getElementById("number")
 number.innerHTML = myMath;
 
-localStorage.number = number.innerHTML
 
+ 
+
+localStorage.number = number.innerHTML
 
 
 
